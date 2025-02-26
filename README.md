@@ -11,6 +11,5 @@ A simple yet functional shopping cart application built with **React** and **Red
 - **State Management**: Efficient global state handling with Redux.  
 
 ## Tech Stack  
-- **React**: Component-based UI
-- **Redux Toolkit**: Simplified Redux setup
-- **Backend**: Third party APIs
+- **React**
+- **Redux Toolkit**
